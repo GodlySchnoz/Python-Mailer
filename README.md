@@ -1,4 +1,4 @@
-# Polilidivulgazione
+# Setup
 
 for running you first have to install the libraries that aren't in the standard library so dotenv and mysql.connctor, to do so run (mysql.connector is useful only if run the intended way (with a mysql database if not it's not needed)
 
@@ -15,7 +15,7 @@ You also need to modify the file_names and image_names files as they are intende
 
 For image attachments write names/path in image_names.txt each image should have a different line for files do the same but with the file_names.txt file.
 
-The code presents a comment for each line making it easier even for the least tech savy to understand it.
+The code presents a comment for each line making it easier even for the least tech savy to understand it as it was created for use as a divulgation newsletter meant to be written not necessarely by programmers.
 
 
 --------------------------------------------------------------------------
